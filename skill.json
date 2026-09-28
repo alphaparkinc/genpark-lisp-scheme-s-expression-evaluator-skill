@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-lisp-scheme-s-expression-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Minimalist Lisp/Scheme interpreter with S-expression reader, lexical scope environments, and conditional forms.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
