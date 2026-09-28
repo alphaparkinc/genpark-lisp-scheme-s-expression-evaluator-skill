@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-lisp-scheme-s-expression-evaluator-skill
+name: genpark-lisp-scheme-s-expression-evaluator-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
