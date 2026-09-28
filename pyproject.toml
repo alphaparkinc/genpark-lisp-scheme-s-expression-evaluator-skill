@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-lisp-scheme-s-expression-evaluator-skill"
+version = "1.0.0"
+description = "Minimalist Lisp/Scheme interpreter with S-expression reader, lexical scope environments, and conditional forms."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "AlphaPark Team", email = "engineering@alphapark.ai"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Software Development :: Compilers",
+    "Topic :: Software Development :: Interpreters"
+]
+
+[project.urls]
+Homepage = "https://github.com/alphaparkinc/genpark-lisp-scheme-s-expression-evaluator-skill"
+Repository = "https://github.com/alphaparkinc/genpark-lisp-scheme-s-expression-evaluator-skill.git"
+Issues = "https://github.com/alphaparkinc/genpark-lisp-scheme-s-expression-evaluator-skill/issues"
